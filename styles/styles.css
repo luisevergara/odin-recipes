@@ -1,0 +1,77 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+a {
+    font-size: 20px;
+}
+
+span {
+    font-family: Verdana;
+    background-color: darkorchid;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+p,
+ul,
+ol {
+    font-family: Cambria;
+}
+
+/* Index Start*/
+
+.title,
+.banner {
+    background-color: bisque;
+    color: blueviolet;
+    text-align: center;
+}
+
+.title {
+    font-weight: bolder;
+    font-family: Helvetica;
+    font-size: 42px;
+}
+
+.banner,
+.description,
+.ingredients,
+.steps {
+    font-weight: bold;
+    font-family: Georgia;
+    text-align: center;
+}
+
+/* Index End */
+
+/* Dollies Start */
+
+.dollies {
+    background-color: burlywood;
+    color: brown;
+}
+
+/* Dollies End */
+
+/* Dip Start */
+
+.dip {
+    background-color: brown;
+    color: orange;
+}
+
+/* Dip End */
+
+/* Aglio Start */
+
+.aglio {
+    background-color: yellow;
+    color: olive;
+}
